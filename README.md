@@ -3,7 +3,7 @@
 Welcome to 32bytes LLC’s official GitHub profile! 🚀  
 
 ## Who We Are  
-At 32bytes LLC, we specialize in delivering cutting-edge cybersecurity solutions tailored to protect your digital assets and secure your organization's infrastructure. Our team of experts is dedicated to helping businesses navigate the complex world of cybersecurity through personalized consulting, advanced system integrations, and proactive threat mitigation strategies.  
+At 32bytes LLC, we specialize in delivering cutting-edge cybersecurity solutions tailored to protect your digital assets and secure your organization's infrastructure, dedicated to helping businesses navigate the complex world of cybersecurity through personalized consulting, advanced system integrations, and proactive threat mitigation strategies.  
 
 ## What We Do  
 - **Security Consulting**: Comprehensive risk assessments and tailored security strategies.  
