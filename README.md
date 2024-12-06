@@ -1,6 +1,4 @@
-# 32 Bytes | Cybersecurity Consulting  
-
-Welcome to 32 Bytes Official GitHub profile! 🚀  
+# 32bytes | Cybersecurity Consulting  
 
 ## Who We Are  
 
